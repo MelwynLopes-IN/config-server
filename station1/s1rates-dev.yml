@@ -1,7 +1,7 @@
 
 stations: 
   station1:
-    name: "Vasai"
+    name: "Vasai-Station1"
     lane1:
       name:  "2-WHEELERS"
       price: "0.0"
