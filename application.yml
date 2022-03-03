@@ -7,7 +7,7 @@ eureka:
   instance:
     hostname: localhost
 
-station1:
-  name: "Default"
-  lane1: "4-WHEELERS"
-  price: "10.0"
+
+name: "Default"
+lane1: "4-WHEELERS"
+price: "10.0"
