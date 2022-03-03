@@ -1,6 +1,5 @@
 
-station1:
-  name: "Dahisar"
-  lane1: "4-WHEELERS"
-  price: "10.0"
+name: "Dahisar"
+lane1: "4-WHEELERS"
+price: "10.0"
   
