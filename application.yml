@@ -10,10 +10,10 @@ eureka:
 
 stations: 
   station1:
-    name: "Default"
+    name: "Default-root"
     lane1:
       name:  "2-WHEELERS"
-      price: "0.0"
+      price: "1.0"
     lane2:
       name: "4-WHEELERS"
-      price: "0.0"
+      price: "1.0"
