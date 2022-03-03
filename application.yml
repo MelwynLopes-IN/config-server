@@ -6,3 +6,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   instance:
     hostname: localhost
+
+station1:
+  name: "Dahisar"
+  lane1: "4-WHEELERS"
+  price: "10.0"
+  
